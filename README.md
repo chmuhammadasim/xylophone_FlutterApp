@@ -1,4 +1,3 @@
-```markdown
 # Xylophone - A Harmonious Flutter Experience 🎵
 
 [![Flutter](https://img.shields.io/badge/Flutter-2.5-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
